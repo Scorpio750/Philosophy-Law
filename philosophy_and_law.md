@@ -10,6 +10,7 @@
 1. [Contract Law](#anchor1)
 	2. [Contract as Promise](#anchor1.1)
 	3. [Damages and Reparations](#anchor1.2)
+2. [Duty and the Law](#anchor2)
 
 ---
 ---
@@ -143,3 +144,35 @@ Charles Fried, Professor of Law at Harvard Law
 	- Seller Wins
 	- Tough Luck
 - What makes the last three non-arbitrary?
+
+---
+
+## 10/16/14
+
+# [Duty and the Law](id:anchor2)
+
+- **Obligation:** moral duty to do the law because the law requires it.
+	- Analogy: command of military superior
+	- *Content Independence*
+
+#### Wellman's qualifications:
+
+- Only a *prima facie* obligation to obey the law
+- *justness* criterion for satisfiability
+
+### Question of Authority:
+
+- Simmons believes no one has authority
+- What grounds authority? Social contract? Respect/morality?
+- Simmons is a **philosophical anarchist**
+
+### Taxonomy of Reasons to think there is an Obligation to obey the law
+
+- **Associative:** social roles (citizens)
+- **Transactional [Ronald Dworkin]:** Morally significant interactions (promise)
+	- This is the most popular theory
+- **Natural Duty [Wellman]:** duties inherited in virtue of being a human
+
+### Particularity Objection:
+
+- Free riders
