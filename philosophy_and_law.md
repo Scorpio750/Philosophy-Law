@@ -209,5 +209,6 @@ Charles Fried, Professor of Law at Harvard Law
 
 ### Power
 
-- A **power** is the ability to change another person's legal relationships
+- A **power** is the ability to change anoth- er person's legal relationships
 - Power is correlative to **liability**
+- Along the same vein, **immunity** is *correlative* to **disability**
