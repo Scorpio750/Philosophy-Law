@@ -1,4 +1,4 @@
-# Philosophy of Law :(345)
+# Philosophy of Law :(345):
 # Doug Husak
 ## Fall 2014
 
@@ -58,7 +58,7 @@ Charles Fried, Professor of Law at Harvard Law
 		- Promise was made $$$\to$$$ realm of *contract*
 		- No promise $$$\to$$$ *tort law*
 
-#### Examples
+### Examples
 
 - You order a hamburger, you eat it, walk out without paying
 	- You owe the restaurant money; did you make a promise?
@@ -75,9 +75,9 @@ Charles Fried, Professor of Law at Harvard Law
 			- Arguably, the man made a promise to Coca Cola to do his job properly, but not to you
 			- Your interaction with the vending machine is arguably the dumbest thing I've ever heard of.
 	
-#### Alternative Views
+### Alternative Views
 
-##### Economists
+#### Economists
 
 - Economic Analysis of Law
 	- Courts try to reach an efficient outcome
@@ -123,7 +123,7 @@ Charles Fried, Professor of Law at Harvard Law
 - Content of Promises
 - What happens when things go wrong
 
-#### Fairness in Relation to Contract Law
+### Fairness in Relation to Contract Law
 
 - The domain of fairness lies *outside* of the domain of contract law
 	- Lies within the domain of **equities**
@@ -176,3 +176,38 @@ Charles Fried, Professor of Law at Harvard Law
 ### Particularity Objection:
 
 - Free riders
+
+---
+## 10/30/14
+
+# [Property Law](id:anchor3)
+
+- Relationship of the right (or bundle of rights) one has of possession
+	- Distinction between **chattel** (personal) and **land** (real)
+- **Wesley Hohfeld** - wrote the most extensive taxonomy on rights
+
+### Rights
+
+- Different kinds of rights
+	1. Claim rights
+	- Liberties (Williams) / Privileges (Hohfeld)
+	- Powers
+	- Immunities
+- All rights describe actions or omissions
+- Only persons have rights
+- All rights describe a relation b/w two things
+	1. Person
+	2. Chattel
+- Liberties are the *absence* of a duty *not* to do something
+- Williams disagrees with Hohfeld's use of the term **privilege** because it implies something more important than it really is in normal language
+
+### Correlatives
+
+- Person *A's* **claim-rights** are against *B* are *B's* **duties** against *A*
+- Your **liberties** end when your **duties** begin
+- **No-rights** (not rights) are *correlative* to **liberties**
+
+### Power
+
+- A **power** is the ability to change another person's legal relationships
+- Power is correlative to **liability**
