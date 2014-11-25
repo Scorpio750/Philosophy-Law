@@ -11,6 +11,8 @@
 	2. [Contract as Promise](#anchor1.1)
 	3. [Damages and Reparations](#anchor1.2)
 2. [Duty and the Law](#anchor2)
+3. [Property Law](#anchor3)
+4. [Tort Law](#anchor4)
 
 ---
 ---
@@ -209,6 +211,79 @@ Charles Fried, Professor of Law at Harvard Law
 
 ### Power
 
-- A **power** is the ability to change anoth- er person's legal relationships
+- A **power** is the ability to change another person's legal relationships
 - Power is correlative to **liability**
 - Along the same vein, **immunity** is *correlative* to **disability**
+
+---
+## 11/24/14
+
+# [Tort Law](id:anchor4)
+
+## Purposes
+
+1. Compensation
+2. Deterrence
+3. Justice*
+
+### Compensation
+
+- Payment for cost of accident
+- Tort is incredibly **selective**
+- Frequently *unnecessary* because plaintiffs often have other schemes of compensation (1st-person insurance)
+- U.S. has a peculiarly heavy reliance as a means of compensation as compared to other countries
+- 38% of all tort cases bear their own costs
+- Tort is also viewed as *excessive*
+	- *Fraud* and *padding* are rampant in *small* tort cases
+	- Much less leeway in large tort cases
+- Tort is *regressive*
+	- The wealthy receive more compensation than the poor
+	$$$$\Delta \to$$$ Independent of Income
+	$$$$\Pi \from$$$ Very Dependent on Income
+- Tort is also vastly **inefficient**
+	- On average, you receive 46¢ for every $ you put in
+
+Husak gives Tort a **D-** for compensation
+
+### Deterrence
+
+- Tort is better as a mode of deterrence
+- There is an incentive to reduce accident costs
+- Tort is good as a deterrent because it is not criminal law, nor regulated by government
+	- Tort liability also seems fair
+- It limits your **moral hazard**
+	- Moral hazard is an empirical phenomenon
+	- Avoid actions with high costs
+	- [This seems tied in with Expected Utility]
+
+- Insurance reduces the effectiveness of deterrence, esp. when it comes to *property damage*. However, if we eliminate insurance, then we will lose compensation.
+- We can distinguish between *tort law* and *criminal law* by saying that criminal law deals with **penal liability**, liabilities that are not covered by insurance.
+- In order to maximize deterrance for certain actions, it is best to criminalize them.
+- Certain behaviors are undeterrable
+	- Unconscious negligable behavior (zoning out when driving)
+- **Woebegone Fallacy**
+	- Most people think they're better at a certain task than they really are
+	- 80% of people think they're better than the average, lol
+- Some people have an obsessive attachment to their own behavior
+- Bell contends that deterrence drives the cost of unsafe products out of the markets
+	- Lead pencils
+
+Husak gives tort a **C** for deterrence
+
+---
+## 11/25/14
+
+**Moral Hazard:** When people shift costs from themselves onto other people
+
+### Economic Analysis of Law
+
+- Cheapest cost avoider 
+	- Risk homeostasis
+- All about efficiency
+- Along that vein, compensation
+- Americans have a wedded conviction to the concept of **fault**
+
+## Justice
+
+- Bell and ### see justice as a *goal*
+- Husak rather sees justice not as a goal, but rather  a *limitation* for one to achieve their goals
